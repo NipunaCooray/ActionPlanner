@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Action Planner</string>
+    <string name="backgroundImageDescription">BackgroundImage</string>
+    <string name="btnStart_Text">Log in</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="setting">Settings</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="editor_activity_title_add_actions">Add actions</string>
+
+</resources>
